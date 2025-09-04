@@ -1,6 +1,4 @@
 # Influencer Identification Project
-
-## Overview
 This project explores a data-driven approach to identifying social media influencers. Using a dataset of top TikTok influencers, the study applies **K-Means clustering** to create influencer profiles and employs **heuristic search algorithms**—Genetic Algorithm and Hill Climbing—to find influencers that best match a target profile.
 
 ## Purpose
